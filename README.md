@@ -5,7 +5,7 @@ This class may help simplify your code and make it easier to understand Java.
 ## Installation
 ``` $ git clone https://github.com/devanshkaloti/DKHelpers-Java ```
 
-Go into ```DKHelpers/src\DKHelpers.java``` where all the helper functions are located. 
+Go into ```DKHelpers/src/DKHelpers.java``` where all the helper functions are located. 
 
 
 ## Functions Available
